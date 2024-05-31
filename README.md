@@ -4,6 +4,7 @@ Materials for the GEA GPT presentations. Will be frequently updated until Novemb
 Link to ChatGPT for trying examples: [ChatGPT](https://chatgpt.com/)
 
 My contact info:
-Christopher Runyon, PhD
+
+Christopher Runyon, PhD [CRunyon@nbme.org](mailto:CRunyon@nbme.org)
+
 Senior Measurement Scientist, NBME Growth & Innovation
-[CRunyon@nbme.org](mailto:CRunyon@nbme.org)

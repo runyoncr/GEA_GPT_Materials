@@ -1,5 +1,5 @@
 # GEA_GPT_Materials
-Materials for the GEA & NICE (NBME Invitational Conference for Educators) GPT workshops. Will be frequently updated until November 2024 (maybe longer). The reference materials are incomplete; we will continue work on this starting in September.
+Materials for the GEA & NICE (NBME Invitational Conference for Educators) GPT workshops.
 
 Link to ChatGPT for trying examples: [ChatGPT](https://chatgpt.com/)
 

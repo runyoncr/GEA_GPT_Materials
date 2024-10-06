@@ -1,5 +1,7 @@
 # GEA_GPT_Materials
-Materials for the GEA & NICE (NBME Invitational Conference for Educators) GPT workshops.
+Materials for the TGME "Teaching with Generative Artificial Intelligence: Guidance for Faculty Developers and Educators​" workshop. 
+
+Also contains similar presentations on the topic; the NICE GenAI Workshop is a broader overview for Med Ed. The JMU GenAI Workshop was presented to JMU Assessment & Measurement faculty and students, and is slightly more technical in nature.
 
 Link to ChatGPT for trying examples: [ChatGPT](https://chatgpt.com/)
 

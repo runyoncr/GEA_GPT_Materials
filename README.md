@@ -13,4 +13,4 @@ Christopher Runyon, PhD [CRunyon@nbme.org](mailto:CRunyon@nbme.org)
 
 Senior Measurement Scientist, [NBME](https://www.nbme.org/) Growth & Innovation
 
-Co-chair, AI in Medical Education [DOCS](https://www.directorsofclinicalskillscourses.com/) Special Interest Group
+Co-chair, AI in Medical Education [DOCS](https://www.directorsofclinicalskillseducation.org/) Special Interest Group

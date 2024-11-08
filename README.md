@@ -9,7 +9,7 @@ For those who want to learn more about the technical aspects of GPTs, I highly r
 
 My contact info:
 
-Christopher Runyon, PhD [CRunyon@nbme.org](mailto:CRunyon@nbme.org)
+Christopher Runyon, PhD. Email me with questions / corrections: [CRunyon@nbme.org](mailto:CRunyon@nbme.org)
 
 Senior Measurement Scientist, [NBME](https://www.nbme.org/) Growth & Innovation
 

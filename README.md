@@ -2,7 +2,9 @@
 
 Various materials related to using Gen AI in Med Ed can be found here. "GEA 2025 - Using LLMs to Grade OSCEs" is my most recent workshop.
 
-Similar / more general presentations on the topic can also be found here; the NICE GenAI Workshop is a broader overview for Med Ed. The JMU GenAI Workshop was presented to JMU Assessment & Measurement faculty and students, and is slightly more technical in nature.
+Similar / more general presentations on the topic can also be found here: 
+- the NICE GenAI Workshop is a broader overview for Med Ed
+- the JMU GenAI Workshop was presented to JMU Assessment & Measurement faculty and students, and is slightly more technical in nature.
 
 Link to ChatGPT for trying examples: [ChatGPT](https://chatgpt.com/)
 

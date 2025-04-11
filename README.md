@@ -16,6 +16,8 @@ For those who want to learn more about the technical aspects of GPTs, I highly r
 
 Materials related to the AI Best Practices (Policy, etc.) can be found [here.](https://github.com/runyoncr/IAEA_AI_Best_Practices)
 
+In some talks I've mentioned that some companies are starting to make products specifically designed to host downloaded open-source LLMs. The [NVIDIA DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) is one example. I haven't used this product and am not endorsing it; it's shown here for demonstration purposes only.
+
 My contact info:
 
 Christopher Runyon, PhD. Email me with questions / corrections: [CRunyon@nbme.org](mailto:CRunyon@nbme.org)

@@ -1,6 +1,6 @@
 # GEA_GPT_Materials
 
-Various materials related to using Gen AI in Med Ed can be found here. "GEA 2025 - Using LLMs to Grade OSCEs" is my most recent workshop.
+Various materials related to using Gen AI in Med Ed can be found here. "GEA 2025 - Using LLMs to Grade OSCEs" is my most recent workshop. That workshop is a result of a series of experiments, which has now been published in Medical Teacher: ["Using Large Language Models (LLMs) to Apply Analytic Rubrics to Post-Encounter Notes"](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2504106). The syntax used in those experiments can be found in one of my other repositories: [GPT Study Materials](https://github.com/runyoncr/GPT_Study_Materials).
 
 Similar / more general presentations on the topic can also be found here: 
 - the NICE GenAI Workshop is a broader overview for Med Ed
